@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Tabby
+title: windows下安装easy_install, pip 及whl文件安装方法 
 category: project
 description: windows下安装easy_install, pip 及whl文件安装方法 
 ---
 
-用[Tabby][Tabby]有一阵子了，最近把细节完善，发布在了Chrome Store。
+最近在学习《Learn Python The Hard Way》汉语翻译过来就是本办法学Python。每一个练习的源码托管在个人[GitHub](https://github.com/Sunnyl←
+shiny/Code)上。欢迎各位提意见相互交流交流。
 
-他的功能是，当你打开几十上百个Chrome标签，很占资源，不想加入书签，也不想存入Instapaper等Read It Later的东西，只看一次，但就是不想现在看，这时候只要在页面点击右键，选择“暂存到Tabby”即可。
+首先确保你的Python已经安装成功，检验方法：
 
-<a href="https://chrome.google.com/webstore/detail/tabby/pifnjkdglcfkfpdjdolfacpfdlgpdkhp" title="Tabby" target="_blank"><img src="/images/other/Tabby-pro1.png" alt="Tabby"></a>
+	在windows下的CMD中输入：python←|
+
+	
+<a href="images/pic/python-eaxam.png"
 
 你可以设置使用快捷键（默认关闭），要打开暂存的标签，只需点击Tabby的图标。因为使用了Chrome的书签，即使你卸载插件，还没来得及看的也不会丢失，也会默认同步到别的设备。
 
