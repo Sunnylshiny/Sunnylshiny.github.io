@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: jQuery解构
 category: project
@@ -8,5 +8,5 @@ description: jQuery是一个伟大作品，他的完成充满智慧，我们来�
 2012-01-16 By {{ site.author_info }}
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[xiaye]:    http://sunnyshiny.github.io  "xiaye"
 [1]:    {{ page.url}}  ({{ page.title }})
