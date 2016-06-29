@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 测试
+title: 在Android整合百度地图应用  
 category: project
-description: 知易行难
+description:HowToDo
 ---
 ### 在Android整合百度地图应用  
 　　零、前言  
@@ -15,7 +15,7 @@ description: 知易行难
 　　　3、SHA2获取(猜测为正式版本的key):a、eclipse开发在打包的最后一步会生成一个SHA1。b、Android studio 开发 **待完善。**   
 
 　　二、在完成输入后你会获取到一个Key值。这个key值就是你在Android项目中使用的在AndroidManifest.xml中添加如下代码:
-<code>
+```
 <application
    <!--添加KEY-->
   <meta-data  
@@ -27,7 +27,7 @@ description: 知易行难
     android:enabled="true"  
     android:process=":remote"/>  
 </application>
-</code>
+```
 　　三、QAQ  
 　　1、问题：在测试机器有地图打包之后地图不显示：SHA1和SHA2获取值不对。  
 　　2、待补充。 
